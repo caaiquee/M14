@@ -1,0 +1,29 @@
+[
+  {
+    "nome": "Seu Jorge",
+    "email": "seujorge@qa.com.br",
+    "password": "teste",
+    "administrador": "true"
+  },
+
+  {
+    "nome": "Seu Jorge",
+    "email": "seujorgeqa.com.br",
+    "password": "teste",
+    "administrador": "false"
+  },
+
+  {
+    "nome": "Marrom Alcione",
+    "email": "marromalcione@qa.com.br",
+    "password": "teste",
+    "administrador": "false"
+  },
+
+  {
+    "nome": "Dudu Nobre",
+    "email": "dudnobre@qa.com.br",
+    "password": "teste",
+    "administrador": "false"
+  }
+]
